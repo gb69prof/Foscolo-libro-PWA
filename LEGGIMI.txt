@@ -1,0 +1,1 @@
+Versione fix immagini: i ritagli grafici principali sono incorporati direttamente nell'app.js per evitare immagini mancanti su GitHub Pages. Caricare TUTTO il contenuto della cartella, compresa assets/originali, per usare il pulsante Originale.
